@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Ads formatVersion="3" target="Avito.ru">
+  <Ad>
+    <Id>adamar-vlg-white-concrete-1</Id>
+    <Category>Ремонт и строительство</Category>
+    <GoodsType>Стройматериалы</GoodsType>
+    <Title>Гибкий мрамор 114x280 см — WHITE CONCRETE_1</Title>
+    <Description>Гибкий мрамор для стен. Представляем вашему вниманию стеновые панели из гибкого мрамора – идеальное решение для создания уникального и стильного интерьера. Эти декоративные панели для стен способны преобразить любое пространство, придавая ему изысканный и современный вид. Стеновая панель из гибкого мрамора обладает множеством преимуществ. Она не только легка в установке, но и обладает высокой прочностью, устойчивостью к воздействию влаги и легкостью в уходе. Панели для стен доступны в разнообразных текстурах и цветовых решениях, что позволяет вам легко подобрать идеальный вариант для любого стиля интерьера – от классики до модернизма. Декоративные панели для стен из гибкого мрамора станут отличным акцентом в вашем помещении, придавая ему атмосферу элегантности и статности. Эти стеновые панели идеально подходят для жилых и коммерческих помещений: гостиных, спальнях, ресторанах и офисах. Не упустите возможность преобразить свое пространство с помощью наших стеновых панелей – качество, стиль и долговечность в каждом элементе! Сделайте шаг к совершенству в дизайне вашего интерьера уже сегодня!</Description>
+    <Price>4900</Price>
+    <Address>г. Волгоград, ул. 25-летия Октября, д. 1, стр. 3</Address>
+    <ContactPhone>8 (800) 222-02-11</ContactPhone>
+    <ManagerName>Adamar Group</ManagerName>
+    <Images>
+      <Image url="https://avatars.mds.yandex.net/get-yastore/20760651/hzcnmmgxsdvr4ml8wdnjqmffft5jhjtc/orig" />
+      <Image url="https://avatars.mds.yandex.net/get-yastore/21044143/r4bpdkc7m46nn5nx2brwptjdqctlhk7t/orig" />
+      <Image url="https://avatars.mds.yandex.net/get-yastore/21044143/dsfdgrdk2k2q2hvk56cf8v2g2z8kw4bb/orig" />
+      <Image url="https://avatars.mds.yandex.net/get-yastore/20274467/dd25xxsshglhg7tztjqg92qhnc5f9g7r/orig" />
+      <Image url="https://avatars.mds.yandex.net/get-yastore/20760651/xcw6762ckjtd79pkgxkcnc4mhlgk66f2/orig" />
+    </Images>
+  </Ad>
+</Ads>
